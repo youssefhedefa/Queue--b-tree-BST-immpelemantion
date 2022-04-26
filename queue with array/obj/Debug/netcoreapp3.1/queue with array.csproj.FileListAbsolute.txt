@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\bin\Debug\netcoreapp3.1\queue with array.exe
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\bin\Debug\netcoreapp3.1\queue with array.deps.json
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\bin\Debug\netcoreapp3.1\queue with array.runtimeconfig.json
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\bin\Debug\netcoreapp3.1\queue with array.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\bin\Debug\netcoreapp3.1\queue with array.dll
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\bin\Debug\netcoreapp3.1\queue with array.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\obj\Debug\netcoreapp3.1\queue with array.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\obj\Debug\netcoreapp3.1\queue with array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\obj\Debug\netcoreapp3.1\queue with array.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\obj\Debug\netcoreapp3.1\queue with array.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\obj\Debug\netcoreapp3.1\queue with array.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\obj\Debug\netcoreapp3.1\queue with array.dll
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\obj\Debug\netcoreapp3.1\queue with array.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\queue with array\obj\Debug\netcoreapp3.1\queue with array.genruntimeconfig.cache
