@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\bin\Debug\netcoreapp3.1\queue with linked list.exe
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\bin\Debug\netcoreapp3.1\queue with linked list.deps.json
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\bin\Debug\netcoreapp3.1\queue with linked list.runtimeconfig.json
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\bin\Debug\netcoreapp3.1\queue with linked list.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\bin\Debug\netcoreapp3.1\queue with linked list.dll
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\bin\Debug\netcoreapp3.1\queue with linked list.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\obj\Debug\netcoreapp3.1\queue with linked list.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\obj\Debug\netcoreapp3.1\queue with linked list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\obj\Debug\netcoreapp3.1\queue with linked list.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\obj\Debug\netcoreapp3.1\queue with linked list.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\obj\Debug\netcoreapp3.1\queue with linked list.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\obj\Debug\netcoreapp3.1\queue with linked list.dll
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\obj\Debug\netcoreapp3.1\queue with linked list.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\queue with linked list\obj\Debug\netcoreapp3.1\queue with linked list.genruntimeconfig.cache
