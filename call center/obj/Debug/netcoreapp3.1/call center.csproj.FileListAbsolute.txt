@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\term 2\data structure\call center\bin\Debug\netcoreapp3.1\call center.exe
+C:\Users\lenovo\Desktop\term 2\data structure\call center\bin\Debug\netcoreapp3.1\call center.deps.json
+C:\Users\lenovo\Desktop\term 2\data structure\call center\bin\Debug\netcoreapp3.1\call center.runtimeconfig.json
+C:\Users\lenovo\Desktop\term 2\data structure\call center\bin\Debug\netcoreapp3.1\call center.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\term 2\data structure\call center\bin\Debug\netcoreapp3.1\call center.dll
+C:\Users\lenovo\Desktop\term 2\data structure\call center\bin\Debug\netcoreapp3.1\call center.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\call center\obj\Debug\netcoreapp3.1\call center.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\term 2\data structure\call center\obj\Debug\netcoreapp3.1\call center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\term 2\data structure\call center\obj\Debug\netcoreapp3.1\call center.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\call center\obj\Debug\netcoreapp3.1\call center.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\term 2\data structure\call center\obj\Debug\netcoreapp3.1\call center.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\call center\obj\Debug\netcoreapp3.1\call center.dll
+C:\Users\lenovo\Desktop\term 2\data structure\call center\obj\Debug\netcoreapp3.1\call center.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\call center\obj\Debug\netcoreapp3.1\call center.genruntimeconfig.cache
