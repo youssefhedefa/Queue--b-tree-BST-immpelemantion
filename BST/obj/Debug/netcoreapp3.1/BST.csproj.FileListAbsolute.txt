@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\term 2\data structure\BST\bin\Debug\netcoreapp3.1\BST.exe
+C:\Users\lenovo\Desktop\term 2\data structure\BST\bin\Debug\netcoreapp3.1\BST.deps.json
+C:\Users\lenovo\Desktop\term 2\data structure\BST\bin\Debug\netcoreapp3.1\BST.runtimeconfig.json
+C:\Users\lenovo\Desktop\term 2\data structure\BST\bin\Debug\netcoreapp3.1\BST.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\term 2\data structure\BST\bin\Debug\netcoreapp3.1\BST.dll
+C:\Users\lenovo\Desktop\term 2\data structure\BST\bin\Debug\netcoreapp3.1\BST.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\BST\obj\Debug\netcoreapp3.1\BST.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\term 2\data structure\BST\obj\Debug\netcoreapp3.1\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\term 2\data structure\BST\obj\Debug\netcoreapp3.1\BST.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\BST\obj\Debug\netcoreapp3.1\BST.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\term 2\data structure\BST\obj\Debug\netcoreapp3.1\BST.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\BST\obj\Debug\netcoreapp3.1\BST.dll
+C:\Users\lenovo\Desktop\term 2\data structure\BST\obj\Debug\netcoreapp3.1\BST.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\BST\obj\Debug\netcoreapp3.1\BST.genruntimeconfig.cache
