@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\bin\Debug\netcoreapp3.1\B+ tree.exe
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\bin\Debug\netcoreapp3.1\B+ tree.deps.json
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\bin\Debug\netcoreapp3.1\B+ tree.runtimeconfig.json
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\bin\Debug\netcoreapp3.1\B+ tree.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\bin\Debug\netcoreapp3.1\B+ tree.dll
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\bin\Debug\netcoreapp3.1\B+ tree.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\obj\Debug\netcoreapp3.1\B+ tree.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\obj\Debug\netcoreapp3.1\B+ tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\obj\Debug\netcoreapp3.1\B+ tree.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\obj\Debug\netcoreapp3.1\B+ tree.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\obj\Debug\netcoreapp3.1\B+ tree.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\obj\Debug\netcoreapp3.1\B+ tree.dll
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\obj\Debug\netcoreapp3.1\B+ tree.pdb
+C:\Users\lenovo\Desktop\term 2\data structure\B+ tree\obj\Debug\netcoreapp3.1\B+ tree.genruntimeconfig.cache
