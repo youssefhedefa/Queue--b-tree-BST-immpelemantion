@@ -74,8 +74,8 @@ namespace B__tree
                     }
                     cursor.key[i] = x; //the value stored in free space
                     cursor.size++; // the size increment by 1
-                    cursor.ptr[cursor.size] = cursor.ptr[cursor.size - 1];
-                    cursor.ptr[cursor.size - 1] = null; //store only last node to contect them together
+                    //cursor.ptr[cursor.size] = cursor.ptr[cursor.size - 1];
+                    //cursor.ptr[cursor.size - 1] = null; //store only last node to contect them together
                 }
                 // else create another node
                 else
